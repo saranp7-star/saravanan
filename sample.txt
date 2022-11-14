@@ -5,4 +5,8 @@ what is ur name?
 xxbxbx
 whta is you efather bane
 summa
+<<<<<<< HEAD
 tuesday
+=======
+poda
+>>>>>>> d1bf1b22ee7c973dc91ed92cc404ae15bdf8dc43
